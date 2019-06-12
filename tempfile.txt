@@ -1,0 +1,5 @@
+total 12
+drwxr-xr-x 5 manharjot manharjot 4096 Jun 12 07:02 coding
+-rw-r--r-- 1 manharjot manharjot 1070 Jun  4 08:48 LICENSE
+-rw-r--r-- 1 manharjot manharjot   77 Jun  4 08:48 README.md
+-rw-r--r-- 1 manharjot manharjot    0 Jun 12 08:09 tempfile.txt
