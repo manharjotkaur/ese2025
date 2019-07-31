@@ -1,5 +1,5 @@
-cmake_minimum_required (VERSION 2.6)
+cmake_minimum_required (VERSION 2.6).
 
-project (count)
+project (count).
 
-add_executable(count count.cpp)
+add_executable(count count.cpp).
