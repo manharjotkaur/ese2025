@@ -2,7 +2,7 @@
  
  *  Created on: Jun 12, 2019
  *      Author: manharjot
- */
+ *
 #include<iostream>
 using namespace std;
 int main ()
