@@ -1,5 +1,4 @@
 #!/bin/bash
-
 #check if a search has been specified
 no_of_arguments=$#
 if [ $no_of_arguments -lt 1 ]
