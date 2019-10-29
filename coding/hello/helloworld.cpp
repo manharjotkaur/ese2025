@@ -1,4 +1,3 @@
-
 //A hello world program in C++
 
 	#include<iostream>
