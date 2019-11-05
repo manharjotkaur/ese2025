@@ -1,4 +1,4 @@
- bubblesort.cpp
+ bubblesort.cpp algorithm
 
  *  Created on: Jun 12, 2019
  *      Author: Manharjot Kaur
