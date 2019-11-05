@@ -1,7 +1,7 @@
  bubblesort.cpp
 
  *  Created on: Jun 12, 2019
- *      Author: Manharjot 
+ *      Author: Manharjot Kaur
  *
 #include<iostream>
 using namespace std;
