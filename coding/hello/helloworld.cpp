@@ -1,4 +1,4 @@
-//A first hello world program in C++
+//A first hello world program in C++ language
 
 	#include<iostream>
 	using namespace std;
