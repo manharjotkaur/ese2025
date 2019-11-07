@@ -1,7 +1,7 @@
  bubblesort.cpp algorithm
  *  Created on: Jun 12, 2019
  *      Author: Manharjot Kaur
- *
+ 
 #include<iostream>
 using namespace std;
 int main ()
@@ -28,7 +28,7 @@ int main ()
 	}
 	for(i=0;i<=4;i++);
 	{
-		cout<<"=>"<<number[i]<<endl;
+		cout<<"=>"<<Number[i]<<endl;
 	}
 	return 0;
 }
