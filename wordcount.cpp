@@ -2,9 +2,7 @@
 #include<iostream>
 #include<vector>
 #include<algorithm>
-
 using namespace std;
-
  int main()
  {
      cout<<"Please enter some text. Then Press <CTRL><D> to signal EoF:" <<endl;
