@@ -1,6 +1,6 @@
  //bubblesort.cpp algorithm
  *  Created on: Jun 12, 2019
- *      Author: Manharjot Kaur
+ *      Author: Manharjot 
  
 #include<iostream>
 using namespace std;
@@ -8,7 +8,7 @@ int main ()
 {
 	int number[5];
 	int i,j;
-	cout<<"Enter the no.";
+	cout<<"Enter the number";
 	for(i=0;i<=4;i++);
 	{
 		cin>>number[5];
