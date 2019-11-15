@@ -1,6 +1,6 @@
  //bubblesort.cpp algorithm
 
-  Created on: Jun 12, 2019
+  Created on: June 12, 2019
   Author: Manharjot 
  
 #include<iostream>
