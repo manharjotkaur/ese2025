@@ -1,12 +1,9 @@
  //bubblesort.cpp algorithm
-
   Created on: June 12, 2019
-  Author: Manharjot kaur
- 
+  Author: Manharjot kaur 
 #include<iostream>
 using namespace std;
 int main ()
-
 {
 	int number[5];
 	int i,j;
