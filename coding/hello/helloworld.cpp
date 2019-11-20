@@ -5,8 +5,7 @@
 
 	int main()
 	(
-		cout << "Hello World!
-Welcome ";
+		cout << "Hello World! ";
 		return 0;
 	}
 
