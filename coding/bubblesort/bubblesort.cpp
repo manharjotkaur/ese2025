@@ -1,4 +1,4 @@
- // bubblesort.cpp algorithm
+ // bubblesort.cpp algo
   Created on: June 12, 2019
   Author: Manharjot kaur 
 #include<iostream>
