@@ -29,8 +29,7 @@ int main ()
 	{
 		cout<<"=>"<<Number[i]<<endl;
 	}
-
-	return 0;
+        return 0;
 }
 
 
