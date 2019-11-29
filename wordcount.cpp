@@ -37,7 +37,6 @@ using namespace std;
         wordCount++;
     }
 
-
     return 0;
 }
 
