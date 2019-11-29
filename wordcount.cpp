@@ -22,8 +22,8 @@ using namespace std;
     if(vSize==0) {
         cout<<"You type nothing "<<endl;
         return 1;
+      }
 
-    }
     cout<<"Here are the word counts for each word in your text:"<<endl;
     int wordCount=1;
     words=container[0];
