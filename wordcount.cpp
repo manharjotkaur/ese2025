@@ -1,4 +1,4 @@
-// To Count a word in a sentence using vector
+// To Count a word in anysentence using vector
 
 #include<iostream>
 #include<vector>
