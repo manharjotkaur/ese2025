@@ -3,7 +3,6 @@
  Created on: June 12, 2019
   Author: Manharjot kaur 
 
-
 #include<iostream>
 using namespace std;
 int main ()
