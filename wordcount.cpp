@@ -38,6 +38,6 @@ using namespace std;
         wordCount++;
     }
 
-    return 0;
+    return 0; 
 }
 
