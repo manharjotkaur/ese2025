@@ -35,6 +35,7 @@ int main ()
 		cout<<"=>"<<Number[i]<<endl;
 	}
         return 0;
+
 }
 
 
