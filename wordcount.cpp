@@ -20,7 +20,7 @@ using namespace std;
     int vSize= container.size();
 
 
-    if(vSize==0) {
+  if(vSize==0) {
         cout<<"You type nothing "<<endl;
         return 1;
       }
@@ -37,6 +37,7 @@ using namespace std;
         }
         wordCount++;
     }
+
 
     return 0; 
 }
