@@ -3,11 +3,9 @@
  Created on: June 14, 2019
   Author: Manharjot 
 
-
 #include<iostream>
 using namespace std;
 int main ()
-
 
 {
 	int number[5];
