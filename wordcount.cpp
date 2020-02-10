@@ -8,6 +8,7 @@ using namespace std;
 
 
  {
+
      cout<<"Please enter some text.Then Press <CTRL><D> to signal EoF:" <<endl;
      string words;
      vector<string> container;
