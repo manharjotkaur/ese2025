@@ -22,7 +22,7 @@ using namespace std;
 
 
   if(vSize==0) {
-        cout<<"You type nothing "<<endl;
+        cout<<"You typed nothing "<<endl;
         return 1;
       }
 
