@@ -31,6 +31,7 @@ using namespace std;
     int wordCount=1;
     words=container[0];
 
+
     for(int i=1;i<vSize;i++) {
         if (words!=container[i]) {
             cout<<words <<" : " <<wordCount<<" "<<endl;
