@@ -9,7 +9,7 @@ int main ()
 
 	int number[5];
 	int i,j;
-	cout<<"Enter the number";
+	cout<<"Enter the number";   
 	for(i=0;i<=4;i++);
 	{
 		cin>>number[5];
