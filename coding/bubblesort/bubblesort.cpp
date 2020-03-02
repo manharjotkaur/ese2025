@@ -7,8 +7,7 @@ Created on: June 14,2019
 using namespace std;
 int main ()
 {
-
-	int number[5];
+int number[5];
 	int i,j;
 	cout<<"Enter the number";   
 	for(i=0;i<=4;i++);
