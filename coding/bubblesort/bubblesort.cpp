@@ -1,7 +1,7 @@
- // bubblesort.cpp sorting algo
+8 // bubblesort.cpp sorting algo
 Created on: June 14,2019
 
-  Author: Manharjot 
+  Author: Manharjot kaur
 
 #include<iostream>
 using namespace std;
